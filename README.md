@@ -6,7 +6,7 @@
 
 ### The project consists in creating web application that shows to the user the most popular movies using Cubos Academy API.
 
-✔️ Create web application that is able to recceive data from an external API;
+✔️ Create a web application that is able to recceive data from an external API;
 
 ## 🛠 Technologies
 
@@ -17,3 +17,7 @@
 <img src="https://www.pinclipart.com/picdir/middle/175-1759459_eng-a-med-kamel-frameworks-css-css-logo.png" width="20" height="18" /> CSS
 
 <img src="https://www.kindpng.com/picc/m/67-678384_transparent-javascript-icon-png-png-download.png" width="16" height="16" /> &nbsp;JavaScript
+
+
+https://user-images.githubusercontent.com/86244416/148142715-aa193e4e-0e8f-4921-8594-ed2a0a14724e.mp4
+
